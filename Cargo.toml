@@ -1,0 +1,9 @@
+[package]
+name = "test-bevy-segfault"
+version = "0.1.0"
+edition = "2018"
+
+
+[dependencies]
+bevy = "0.5"
+bevy_wgpu = "0.5"
